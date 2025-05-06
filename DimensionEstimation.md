@@ -102,9 +102,7 @@ plot3d(x_vals, y_vals, z_vals, type = "s", col = "blue", size = 1)
 rglwidget()
 ```
 
-    ## file:///C:/Users/barts/AppData/Local/Temp/RtmpGG5swG/file381435c56c46.html screenshot completed
-
-<img src="../../Users/barts/AppData/Local/Temp/RtmpGG5swG/file381436dc42d9.png" width="672" />
+<img src="../../DimEst0.jpg" width="672" />
 The following code sets up all the components of the intrinsic dimension
 estimator $E_{DP}$. Although the method works on a data set with just
 relative ordering given, the distances are computed to impose this
