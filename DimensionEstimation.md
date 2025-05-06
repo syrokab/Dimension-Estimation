@@ -481,9 +481,7 @@ plot3d(x_vals, y_vals, z_vals, type = "s", col = "blue", size = 1)
 rglwidget()
 ```
 
-    ## file:///C:/Users/barts/AppData/Local/Temp/RtmpGG5swG/file381469a02759.html screenshot completed
-
-<img src="../../Users/barts/AppData/Local/Temp/RtmpGG5swG/file38141b483d7.png" width="672" />
+<img src="../../blob/main/DimEst1.jpg" width="672" />
 We will apply our EDP and ECAP dimension estimators, using a lower value
 of k=10. Since our data set only contains 100 points, a lower k value
 seems to produce more accurate results.
